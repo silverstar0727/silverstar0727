@@ -1,4 +1,4 @@
-### ⭐️ My Educate & Experience
+### ⭐️ Educate & Experience
 - Yonsei University(2021-), Seoul, South Korea
   - Undergraduate Student, **Computer Science**
 - Yonsei University(2019-), Wonju, South Korea
