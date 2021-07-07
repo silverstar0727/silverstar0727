@@ -8,6 +8,6 @@
 
 ### 🌱 I’m currently learning 
   - MLOps(Especially, GCP Vertex AI & AWS SageMaker)
-  - NLP(Natural Languaage Processing)
+  - NLP(Natural Language Processing)
   - GNN(Graph Neural Network)
   - Docker & Kubernetes
