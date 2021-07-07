@@ -1,16 +1,13 @@
-### Hi there 👋
+### Educate & Experience
+- Yonsei University(2021-), Seoul, South Korea
+  - Undergraduate Student, **Computer Science**
+- Yonsei University(2019-), Wonju, South Korea
+  - Undergraduate Student, **Physics**
+- Google Developer Student Clubs KR Lead(2020-2021)
 
-<!--
-**silverstar0727/silverstar0727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning 
+  - MLOps(Especially, Vertex AI, SageMaker) & AI Application
+  - NLP(Natural Languaage Processing)
+  - GNN(Graph Neural Network)
+  - Docker & Kubernetes
