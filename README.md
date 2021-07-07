@@ -1,8 +1,8 @@
 ### ⭐️ Educate & Experience
 - Yonsei University(2021-), Seoul, South Korea
-  - Undergraduate Student, **Computer Science**
+  - Undergraduate **Computer Science**
 - Yonsei University(2019-), Wonju, South Korea
-  - Undergraduate Student, **Physics**
+  - Undergraduate **Physics**
 - Google Developer Student Clubs KR Lead(2020-2021)
 
 
