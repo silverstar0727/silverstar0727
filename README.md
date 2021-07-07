@@ -7,7 +7,7 @@
 
 
 ### 🌱 I’m currently learning 
-  - MLOps(Especially, Vertex AI, SageMaker) & AI Application
+  - MLOps(Especially, Vertex AI & SageMaker)
   - NLP(Natural Languaage Processing)
   - GNN(Graph Neural Network)
   - Docker & Kubernetes
