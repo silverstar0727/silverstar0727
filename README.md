@@ -9,6 +9,7 @@
 ### 🌱 I’m currently learning 
   - MLOps(Especially, GCP Vertex AI & AWS SageMaker)
   - NLP(Natural Language Processing)
+    - Question & Answering Task
   - GNN(Graph Neural Networks)
     - Dark Matter Interactions
   - Docker & Kubernetes
