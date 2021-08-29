@@ -11,5 +11,5 @@
   - NLP(Natural Language Processing)
     - Question & Answering Task
   - GNN(Graph Neural Networks)
-    - Dark Matter Interactions
+    - Interactions between particles
   - Docker & Kubernetes
