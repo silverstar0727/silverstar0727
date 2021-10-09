@@ -10,6 +10,6 @@
   - MLOps(Especially, GCP Vertex AI & AWS SageMaker)
   - NLP(Natural Language Processing)
     - Question & Answering Task
-  - GNN(Graph Neural Networks)
+  - GNN(Graph Neural Networks) for Physics
     - Interactions between particles
   - Docker & Kubernetes
