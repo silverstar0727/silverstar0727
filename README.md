@@ -8,10 +8,10 @@
 
 ### 🌱 I’m currently learning 
   - MLOps(Especially, GCP Vertex AI & AWS SageMaker)
-  - NLP(Natural Language Processing)
-    - Question & Answering Task
   - GNN(Graph Neural Networks) for Physics
     - Interactions between particles
   - Docker & Kubernetes
+  - Android(Kotlin)
+  - JAVA Spring
 
 ![JeongMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=silverstar0727&show_icons=true&theme=vue-dark)
