@@ -3,15 +3,15 @@
   - Undergraduate **Computer Science**
 - Yonsei University(2019-), Wonju, South Korea
   - Undergraduate **Physics**
+- Startup 'For Parents' Co-Founder, SW Engineer(2021-)
 - Google Developer Student Clubs KR Lead(2020-2021)
 
 
 ### 🌱 I’m currently learning 
-  - MLOps(Especially, GCP Vertex AI & AWS SageMaker)
+  - MLOps, DevOps
   - GNN(Graph Neural Networks) for Physics
     - Interactions between particles
   - Docker & Kubernetes
-  - Android(Kotlin)
   - JAVA Spring
 
 ![JeongMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=silverstar0727&show_icons=true&theme=vue-dark)
