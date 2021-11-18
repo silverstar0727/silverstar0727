@@ -12,6 +12,6 @@
   - GNN(Graph Neural Networks) for Physics
     - Interactions between particles
   - Docker & Kubernetes
-  - JAVA Spring
+  - Backend(Django, Java Spring)
 
 ![JeongMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=silverstar0727&show_icons=true&theme=vue-dark)
