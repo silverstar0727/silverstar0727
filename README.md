@@ -15,15 +15,17 @@
 - Docker & Kubernetes
 - Backend(Django)
 
-### 💻 Tech Stack
+### 💻 My Tech Stack
 - **Programming Languages**: Python, Java, Dart, Kotlin
 - **DeepLearning Frameworks**: Tensorflow(+ Keras), Pytorch
 - **Backend Frameworks**: Django, Flask
 - **Infrastructures**: Docker, Kubernetes, GCP, AWS, Kubeflow
 - **DataBase**: MySQL
 
-### 📋 Sites
-- [github](https://github.com/silverstar0727)
-- [velog](https://velog.io/@djm0727)
+### 📮 How to Contact me
+- [Facebook](https://www.facebook.com/JeongMinDo0727/)
+- [E-mail](mailto:dojm0727@gmail.com)
+- [Github](https://github.com/silverstar0727)
+- [Blog](https://velog.io/@djm0727)
 
 ![JeongMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=silverstar0727&show_icons=true&theme=vue-dark)
