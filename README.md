@@ -6,7 +6,6 @@
 - Yonsei University(2019-), Wonju, South Korea
   - Undergraduate **Physics**
 - Google Developer Student Clubs KR **Lead**(2020-2021)
-- **Future Strategy Division** of Yonsei University(Mirae) Student Association(2020)
 
 ### 🌱 I’m currently learning 
 - MLOps(Especially GCP Vertex AI & AWS SageMaker)
