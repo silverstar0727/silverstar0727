@@ -16,9 +16,9 @@
 - Backend(Django)
 
 ### 💻 Tech Stack
-- Programming Languages: Python, Java, Dart, Kotlin
-- DeepLearning Frameworks: Tensorflow(+ Keras), Pytorch
-- Backend Frameworks: Django, Flask
-- Infrastructures: Docker, Kubernetes, GCP, AWS
+- **Programming Languages**: Python, Java, Dart, Kotlin
+- **DeepLearning Frameworks**: Tensorflow(+ Keras), Pytorch
+- **Backend Frameworks**: Django, Flask
+- **Infrastructures**: Docker, Kubernetes, GCP, AWS
 
 ![JeongMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=silverstar0727&show_icons=true&theme=vue-dark)
