@@ -27,5 +27,6 @@
 - [E-mail](mailto:dojm0727@gmail.com)
 - [Github](https://github.com/silverstar0727)
 - [Blog](https://velog.io/@djm0727)
+- [Resume](https://zest-break-fb2.notion.site/Jeongmin-Do-5899d3df33df4f83ad67a30f7d2ac75b)
 
 ![JeongMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=silverstar0727&show_icons=true&theme=vue-dark)
