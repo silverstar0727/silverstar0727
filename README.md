@@ -15,7 +15,7 @@
 - Docker & Kubernetes
 - Backend(Django)
 
-### Tech Stack
+### 💻 Tech Stack
 - Programming Languages: Python, Java, Dart, Kotlin
 - DeepLearning Frameworks: Tensorflow(+ Keras), Pytorch
 - Backend Frameworks: Django, Flask
