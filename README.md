@@ -3,7 +3,6 @@
   - Undergraduate **Computer Science**
 - Yonsei University(2019-), Wonju, South Korea
   - Undergraduate **Physics**
-- Start-up 'For Parents' **Co-Founder, SW Engineer**(2021-)
 - Google Developer Student Clubs KR **Lead**(2020-2021)
 
 
