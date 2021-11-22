@@ -1,7 +1,4 @@
 ### AI를 이용하여 세상에 많은 가치를 전파할 수 있도록 끊임없이 노력하는 청년 입니다.
-- [github](https://github.com/silverstar0727)
-- [velog](https://velog.io/@djm0727)
-
 
 ### ⭐️ Education & Experience
 - Yonsei University(2021-), Seoul, South Korea
@@ -23,5 +20,9 @@
 - **DeepLearning Frameworks**: Tensorflow(+ Keras), Pytorch
 - **Backend Frameworks**: Django, Flask
 - **Infrastructures**: Docker, Kubernetes, GCP, AWS
+
+### Sites
+- [github](https://github.com/silverstar0727)
+- [velog](https://velog.io/@djm0727)
 
 ![JeongMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=silverstar0727&show_icons=true&theme=vue-dark)
