@@ -21,7 +21,7 @@
 - **Backend Frameworks**: Django, Flask
 - **Infrastructures**: Docker, Kubernetes, GCP, AWS
 
-### Sites
+### 📋 Sites
 - [github](https://github.com/silverstar0727)
 - [velog](https://velog.io/@djm0727)
 
