@@ -22,7 +22,7 @@
 - **Infrastructures**: Docker, Kubernetes, GCP, AWS, Kubeflow
 - **DataBase**: MySQL
 
-### 📮 How to Contact me
+### 📮 How to reach me
 - [Facebook](https://www.facebook.com/JeongMinDo0727/)
 - [E-mail](mailto:dojm0727@gmail.com)
 - [Github](https://github.com/silverstar0727)
