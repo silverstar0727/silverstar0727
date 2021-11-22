@@ -9,7 +9,7 @@
 - **Future Strategy Division** of Yonsei University(Mirae) Student Association(2020)
 
 ### 🌱 I’m currently learning 
-- MLOps, DevOps
+- MLOps(Especially GCP Vertex AI & AWS SageMaker)
 - GNN(Graph Neural Networks) for Physics
   - Interactions between particles
 - Docker & Kubernetes
@@ -19,7 +19,8 @@
 - **Programming Languages**: Python, Java, Dart, Kotlin
 - **DeepLearning Frameworks**: Tensorflow(+ Keras), Pytorch
 - **Backend Frameworks**: Django, Flask
-- **Infrastructures**: Docker, Kubernetes, GCP, AWS
+- **Infrastructures**: Docker, Kubernetes, GCP, AWS, Kubeflow
+- **DataBase**: MySQL
 
 ### 📋 Sites
 - [github](https://github.com/silverstar0727)
