@@ -15,9 +15,9 @@
 - Backend(Django)
 
 ### 💻 My Tech Stack
-- **Programming Languages**: Python, Java, Dart, Kotlin
+- **Programming Languages**: Python, Java, Dart
 - **DeepLearning Frameworks**: Tensorflow(+ Keras), Pytorch
-- **Backend Frameworks**: Django, Flask
+- **Backend Frameworks**: Django
 - **Infrastructures**: Docker, Kubernetes, GCP, AWS, Kubeflow
 - **DataBase**: MySQL
 
