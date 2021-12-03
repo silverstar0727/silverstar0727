@@ -2,23 +2,24 @@
 
 ### ⭐️ Education & Experience
 - Yonsei University(2021-), Seoul, South Korea
-  - Undergraduate **Computer Science**
+    - Undergraduate **Computer Science**
 - Yonsei University(2019-), Wonju, South Korea
-  - Undergraduate **Physics**
+    - Undergraduate **Physics**
 - Google Developer Student Clubs KR **Lead**(2020-2021)
 
-### 🌱 I’m currently learning 
+### 🌱 I’m currently learning
 - MLOps(Especially GCP Vertex AI & AWS SageMaker)
 - GNN(Graph Neural Networks) for Physics
-  - Interactions between particles
+    - Interactions between particles
 - Docker & Kubernetes
 - Backend(Django)
 
 ### 💻 My Tech Stack
 - **Programming Languages**: Python, Java, Dart
 - **DeepLearning Frameworks**: Tensorflow(+ Keras), Pytorch
-- **Backend Frameworks**: Django
+- **Backend Framework**: Django
 - **Infrastructures**: Docker, Kubernetes, GCP, AWS, Kubeflow
+- **Mobile**: Flutter
 - **DataBase**: MySQL
 
 ### 📮 How to reach me
