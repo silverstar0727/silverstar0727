@@ -1,6 +1,8 @@
 ## AI를 이용하여 세상에 많은 가치를 전파할 수 있도록 끊임없이 노력하는 청년 입니다.
 
 ### ⭐️ Education & Experience
+- Nota.inc, Seoul, South Korea
+    - MLOps Engineer Internship
 - Yonsei University(2021-), Seoul, South Korea
     - Undergraduate **Computer Science**
 - Yonsei University(2019-), Wonju, South Korea
