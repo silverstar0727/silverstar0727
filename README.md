@@ -2,7 +2,7 @@
 
 ### ⭐️ Education & Experience
 - Nota incoperated, Seoul, South Korea
-    - MLOps Engineer Internship
+    - **MLOps Engineer Internship**
 - Yonsei University(2021-), Seoul, South Korea
     - Undergraduate **Computer Science**
 - Yonsei University(2019-), Wonju, South Korea
