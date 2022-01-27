@@ -10,7 +10,7 @@
 - Google Developer Student Clubs KR **Lead**(2020-2021)
 
 ### 🌱 I’m currently learning
-- MLOps(Especially GCP Vertex AI & AWS SageMaker)
+- MLOps(Create a **culture** so that ML projects have efficient processes.)
 - GNN(Graph Neural Networks) for Physics
     - Interactions between particles
 - Docker & Kubernetes
