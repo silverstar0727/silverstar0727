@@ -13,8 +13,8 @@
 - MLOps
 - GNN(Graph Neural Networks) for Physics
     - Interactions between particles
+    - Data Driven Discovery
 - Docker & Kubernetes
-- Backend(Django)
 
 ### 💻 My Tech Stack
 - **Programming Languages**: Python, Java, Dart
