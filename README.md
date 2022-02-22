@@ -15,6 +15,8 @@
     - Interactions between particles
     - Data Driven Discovery
 - Docker & Kubernetes
+- Ray(high performance programming, large-scale GPU cluster)
+- Data Engineering(Airflow, Kafka)
 
 ### 💻 My Tech Stack
 - **Programming Languages**: Python, Java, Dart
