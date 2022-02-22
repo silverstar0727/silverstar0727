@@ -10,12 +10,12 @@
 - Google Developer Student Clubs KR **Lead**(2020-2021)
 
 ### 🌱 I’m currently learning
-- MLOps
+- MLOps 
 - GNN(Graph Neural Networks) for Physics
     - Interactions between particles
     - Data Driven Discovery
 - Docker & Kubernetes
-- Ray(high performance programming, large-scale GPU cluster)
+- high performance programming, large-scale GPU cluster(with Ray)
 - Data Engineering(Airflow, Kafka)
 
 ### 💻 My Tech Stack
