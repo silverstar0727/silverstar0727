@@ -2,7 +2,7 @@
 
 ### ⭐️ Education & Experience
 - Nota incorperated(2021-)
-    - **MLOps Engineer Intern**
+    - **MLOps Engineer, Intern**
 - Yonsei University(2021-), Seoul, South Korea
     - Undergraduate **Computer Science**
 - Yonsei University(2019-), Wonju, South Korea
