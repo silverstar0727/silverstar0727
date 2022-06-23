@@ -22,10 +22,10 @@
 ### 💻 My Tech Stack
 - **Programming Languages**: Python, Java, Dart
 - **DeepLearning Frameworks**: Tensorflow(+ Keras), Pytorch
-- **Backend Framework**: Django
+- **Backend Framework**: Django, FastAPI
 - **Infrastructures**: Docker, Kubernetes, GCP, AWS, Kubeflow
 - **Mobile**: Flutter
-- **DataBase**: MySQL
+- **DataBase**: MySQL, PostgreSQL
 
 ### 📮 How to reach me
 - [Facebook](https://www.facebook.com/JeongMinDo0727/)
