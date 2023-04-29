@@ -1,4 +1,4 @@
-## AI를 이용하여 세상에 많은 가치를 전파할 수 있도록 끊임없이 노력하는 청년 입니다.
+### Jeongmin Do
 
 ### ⭐️ Education & Experience
 - Repulic of Korea Navy Headquarters(2022.8-)
