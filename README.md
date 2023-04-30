@@ -14,23 +14,14 @@
 - Google Developer Student Clubs KR **Lead**(2020-2021)
 
 ### 🌱 I’m currently learning
-- GNN(Graph Neural Networks) for Physics
+- AI for Physics
     - Interactions between particles
     - Data Driven Discovery
-- high performance programming(Ray)
-    - Distributed Reinforcement learning
+- The democratization of LLM(Large Language Model)
 - Data Engineering
     - Large Scale data processing (Spark)
     - Data Pipeline (Airflow)
     - Real-time processing (Kafka)
-
-### 💻 My Tech Stack
-- **Programming Languages**: Python, Java, Dart
-- **DeepLearning Frameworks**: Tensorflow(+ Keras), Pytorch
-- **Backend Framework**: Django, FastAPI
-- **Infrastructures**: Docker, Kubernetes, GCP, AWS, Kubeflow
-- **Mobile**: Flutter
-- **DataBase**: MySQL, PostgreSQL
 
 ### 📮 How to reach me
 - [E-mail](mailto:dojm0727@gmail.com)
