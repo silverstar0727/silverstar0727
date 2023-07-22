@@ -3,6 +3,7 @@
 ### ⭐️ Education & Experience
 - Repulic of Korea Navy Headquarters(2022.8-)
     - **AI Research Engineer**
+    - Compulsory military service
 - Nota incorporated(2021.12-2022.7)
     - **MLOps Engineer, Intern**
     - Migrate on-prem data infra to AWS Data Lake(S3, Athena, Glue, Fargate, Lambda)
