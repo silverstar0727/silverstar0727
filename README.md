@@ -1,5 +1,5 @@
 ### Jeongmin Do
-- Software Maestro 15th (2024.03-2024.12
+- Software Maestro 15th (2024.03-2024.12)
 - Repulic of Korea Navy Headquarters(2022.8-2024.03)
     - **AI Research Engineer**, Compulsory military service
 - Nota incorporated(2021.12-2022.7)
